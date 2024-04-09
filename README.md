@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/un_beat_able_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="un_beat_able_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohd-saifulla-336633262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohd-saifulla-336633262" height="30" width="40" /></a>
+<a href="https://twitter.com/__s_aif__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="un_beat_able_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-saifulla-336633262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohd-saifulla-336633262" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mosaif375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mosaif375" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_mo_saif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_mo_saif_" height="30" width="40" /></a>
 </p>
